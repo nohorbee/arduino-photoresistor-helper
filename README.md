@@ -2,7 +2,7 @@
 
 ##About
 A library to handle photoresistors on a OO way.
-Despite of the triviality of the operations, having libraries results useful when more than one potentiometer is being managed. Additionally, libraries can be incrementally developed, including more complex functionality in the future,
+Despite of the triviality of the operations, having libraries results useful when more than one photoresistor is being managed. Additionally, libraries can be incrementally developed, including more complex functionality in the future,
 
 ###Hands On
 
