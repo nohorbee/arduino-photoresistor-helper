@@ -7,7 +7,7 @@ class Photoresistor {
   private: 
   	byte pin;
   public:
-  	enum Unit { VOLT, LUX }; // Use PhotoResistor::VOLT or PhotoResistor::LUX
+  	enum Unit { VOLT, LUX }; // Use Photoresistor::VOLT or Photoresistor::LUX
     Photoresistor(byte pin);
     float getVoltage();
     float getLightLevel();
